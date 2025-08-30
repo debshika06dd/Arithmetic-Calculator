@@ -58,7 +58,7 @@ button:active{
 @media (max-width: 600px) {
     .display {
         font-size: 40px;
-        margin-top: 80px;
+        margin-top: 100px;
     }
     .buttons button {
         font-size: 32px;
@@ -70,7 +70,7 @@ button:active{
 @media (max-width: 400px){
     .display {
         font-size: 32px;
-        margin-top: 80px;
+        margin-top: 100px;
     }
     .buttons {
         grid-template-columns: repeat(4, 1fr); /* Keep 4 columns, may shrink buttons */
@@ -86,7 +86,7 @@ button:active{
 @media (max-width: 300px) {
     .display {
         font-size: 28px;
-        margin-top: 80px;
+        margin-top: 100px;
     }
     .buttons {
         grid-template-columns: repeat(3, 1fr); /* reduce to 3 columns */
@@ -97,3 +97,4 @@ button:active{
         padding: 6px 0;
     }
 }
+
