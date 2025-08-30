@@ -1,0 +1,28 @@
+.display{
+    background: white;
+    text-align: right;
+    font-size: 66px;
+    margin-top: 100px;
+}
+
+
+hr{
+    color: lightblue;
+}
+
+.buttons{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr); /*3 equal columns*/
+    gap: 10px;
+}
+
+.buttons button{
+    font-size: 46px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:active{
+    transform: translateY(2px);
+}
