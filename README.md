@@ -1,6 +1,6 @@
 # Arithmetic-Calculator
 *A simple JavaScript-based arithmetic calculator that performs basic operations like **addition, subtraction, multiplication, division, and percentage** with a clean UI.*
-**Calculate Now at:**
+**Calculate Now at:** *https://debshika06dd.github.io/Arithmetic-Calculator/*
 
 **🚀 Features**
 + Perform basic arithmetic operations (+, −, ×, ÷)
